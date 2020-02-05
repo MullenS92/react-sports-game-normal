@@ -18,9 +18,11 @@
 
 html * {
   box-sizing: border-box;
+  background-color: white;
 }
 
 body {
+  
   padding: 0;
   margin: 0;
   font-family: 'Oswald', sans-serif;
@@ -84,7 +86,7 @@ body {
 .versus h1 {
   font-family: againtsregular, oswald, sans-serif;
   font-size: 500%;
-  color: #fc0;
+  color: rgb(126, 82, 155);
   text-shadow: 2px 2px 0 black;
 }
 
@@ -93,7 +95,7 @@ button {
   margin-top: 1rem;
   width: 100%;
   padding: 0.5rem;
-  background-color: #fc0;
+  background-color: rgb(126, 82, 155);
   border: 0;
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
